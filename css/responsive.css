@@ -1,0 +1,8 @@
+@media (max-width: 375px) {
+    .header-btn button, .filter-button{
+      font-size: 10px;
+    }
+    .carousel-left-btn button{
+      font-size: 10px;
+    }
+  }
