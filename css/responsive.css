@@ -5,4 +5,21 @@
     .carousel-left-btn button{
       font-size: 10px;
     }
+    a.btn-fb, a.btn-tw, a.btn-linkedin{
+      font-size: 10px;
+    }
+  }
+  @media (max-width: 768px) {
+    a.btn-fb, a.btn-tw, a.btn-linkedin{
+      font-size: 16px;
+    }
+    a.btn-fb{
+      padding: 0.2rem 0.6rem;
+    }
+    a.btn-tw{
+      padding: 0.2rem 0.4rem;
+    }
+    a.btn-linkedin{
+      padding: 0.2rem 0.4rem;
+    }
   }

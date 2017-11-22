@@ -93,6 +93,9 @@ a.overlay-logo{
   color: #dadada;
   border-radius: 20px;
 }
+.service-card-icon i.fa-tint{
+  padding: 20px 15px; 
+}
 svg{
   transform: rotate(30deg);
 }
